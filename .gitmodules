@@ -1,3 +1,6 @@
 [submodule "vertico"]
 	path = vertico
 	url = https://github.com/minad/vertico
+[submodule "a/b/c/d/corfu"]
+	path = a/b/c/d/corfu
+	url = https://github.com/minad/corfu
