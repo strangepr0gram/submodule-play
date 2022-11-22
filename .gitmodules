@@ -1,0 +1,3 @@
+[submodule "vertico"]
+	path = vertico
+	url = https://github.com/minad/vertico
